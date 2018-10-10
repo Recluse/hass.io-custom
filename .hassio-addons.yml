@@ -1,0 +1,8 @@
+---
+channel: stable
+addons:
+  homebridge:
+    repository: hassio-addons/addon-homebridge
+    target: homebridge
+    image: hassioaddons/homebridge-{arch}
+
